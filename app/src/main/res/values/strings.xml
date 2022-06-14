@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Material Navigation Bottom Bar</string>
+    <string name="main_page_selected">Select Item %s</string>
+</resources>
