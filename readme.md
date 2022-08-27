@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=1000px height=600px src="./art/image.gif" alt="Project logo"></a>
+ <img width=400px height=600px src="./art/image.gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">MaterialBottomNavigation</h3>
